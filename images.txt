@@ -10,7 +10,7 @@
 #gitlab/gitlab-ce:16.11.4-ce.0
 #gitlab/gitlab-ce:17.1.1-ce.0
 #gitlab/gitlab-ce:17.1.2-ce.0
-
+gitlab/gitlab-ce:17.3.5-ce.0
 gitlab/gitlab-ce:17.4.2-ce.0
 
 
