@@ -11,6 +11,9 @@
 #gitlab/gitlab-ce:17.1.1-ce.0
 #gitlab/gitlab-ce:17.1.2-ce.0
 
+gitlab/gitlab-ce:17.4.2-ce.0
+
+
 #quay.io/minio/minio
 
 #portainer/portainer-ce:2.19.5
